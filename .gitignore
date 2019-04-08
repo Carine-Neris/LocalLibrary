@@ -1,0 +1,10 @@
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
